@@ -24,13 +24,12 @@ cd release
 
 ### 方式 1: 使用 QEMU 系统模式
 
-1. 准备内核镜像 `boot-kernel` (在发布包中重命名为 `Image`) 和 OpenSBI 固件 `fw_dynamic.bin`。
-2. 运行脚本 `./run-qemu.sh`。
-3. 系统将启动并自动运行 systemd，在出现 `login:` 提示符时输入 `root` 即可直接免密进入 shell。
+1. 运行脚本 `./run-qemu.sh`。
+2. 系统将启动并自动运行 systemd，在出现 `login:` 提示符时输入 `root` 即可直接免密进入 shell。
 
 ## neofetch 证据
 
-![neofetch](../evidence/HNO3Miracle/neofetch.png)
+![neofetch](https://lg.hno3.top/lfs.png)
 
 ```
 /\_/\          root@oerv-lfs
