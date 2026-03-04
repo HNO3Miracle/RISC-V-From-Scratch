@@ -4,12 +4,12 @@
 
 - GitHub ID: HNO3Miracle
 - 联系邮箱: hno3miracle@example.com (需确认)
-- rootfs 发布 Repo: https://github.com/HNO3Miracle/oerv-lfs
+- rootfs 发布 Repo: [https://github.com/HNO3Miracle/RISC-V-From-Scratch](https://github.com/HNO3Miracle/RISC-V-From-Scratch/releases/tag/1)
 
 ## Rootfs 资产
 
 - 文件名: rootfs-riscv64-lfs-HNO3Miracle.tar.zst
-- SHA256: e44a3fe2cbc2190325ca6ab79657345fa6633740a15ddbbe17f0af3eb2a1521c (ext4 镜像 SHA256)
+- SHA256: 479d8e2bbd720b2cd44d9ca727ba1356d0fcba1f94db9956413571e596219f2d
 
 ## 如何从 rootfs 运行起来
 
